@@ -6,5 +6,4 @@ vim.cmd("set number")
 vim.cmd("inoremap jj <Esc>")
 vim.g.mapleader = " "
 
-vim.cmd("nnoremap <C-f> :! black %<CR>")
 vim.cmd("nnoremap <Leader>/ :noh<CR>")
